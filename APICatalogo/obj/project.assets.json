@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\APICatalogo.csproj",
       "projectName": "APICatalogo",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\APICatalogo.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\APICatalogo\\obj\\",
+      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

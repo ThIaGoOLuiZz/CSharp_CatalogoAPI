@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AjyORJa1JU8=",
+  "dgSpecHash": "uLY/5/2+avM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
